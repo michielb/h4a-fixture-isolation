@@ -1,3 +1,4 @@
 # MB-451 + MB-449: this branch flips the probe container to runsc (gVisor)
 # via the sandbox knob. Main branch is runc (platform default).
+tier: dynamic
 sandbox: strict
